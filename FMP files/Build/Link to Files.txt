@@ -1,2 +1,3 @@
 GitHub doesnt let me submit anything over 100mb and over 2gb when I have Git LFS installed so I had to add them to a Google drive.
 this is the link: https://drive.google.com/drive/folders/1mmqzeHkKZzeTdR5Je2lujWqLzMyQt8ap?usp=sharing
+I made this just in case there was an issue with this Github.
